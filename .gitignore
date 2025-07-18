@@ -73,3 +73,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# 에셋스토어 리소스 제외
+Assets/409 Battle Backgrounds.meta
+Assets/SPUM.meta
+Assets/Layer Lab.meta
+Assets/409 Battle Backgrounds/
+Assets/SPUM/
+Assets/Layer Lab/
