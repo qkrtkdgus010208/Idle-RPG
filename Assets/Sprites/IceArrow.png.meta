@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 88eccd0050985d541ac31a7a87afc1b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -727653709556135468
+    second: IceArrow_0
+  - first:
+      213: -1297733579344340761
+    second: IceArrow_1
+  - first:
+      213: 7077711186549261401
+    second: IceArrow_2
+  - first:
+      213: 1817571677521755776
+    second: IceArrow_3
+  - first:
+      213: -669990980705505229
+    second: IceArrow_4
+  - first:
+      213: 1914933786070101709
+    second: IceArrow_5
+  - first:
+      213: 2552048712025002343
+    second: IceArrow_6
+  - first:
+      213: -1530499702660338342
+    second: IceArrow_7
+  - first:
+      213: -282459333930558603
+    second: IceArrow_8
+  - first:
+      213: 1235043510627864593
+    second: IceArrow_9
+  - first:
+      213: 332854622190549850
+    second: IceArrow_10
+  - first:
+      213: -4934032624302414349
+    second: IceArrow_11
+  - first:
+      213: 7867396968097959228
+    second: IceArrow_12
+  - first:
+      213: 2573157248779364378
+    second: IceArrow_13
+  - first:
+      213: -4942475198631396490
+    second: IceArrow_14
+  - first:
+      213: 523985466392438948
+    second: IceArrow_15
+  - first:
+      213: 6149107074661535413
+    second: IceArrow_16
+  - first:
+      213: 4905767859569242523
+    second: IceArrow_17
+  - first:
+      213: 4510025126375542280
+    second: IceArrow_18
+  - first:
+      213: -3566648291596132245
+    second: IceArrow_19
+  - first:
+      213: 4353809965672502806
+    second: IceArrow_20
+  - first:
+      213: 8191094923141347572
+    second: IceArrow_21
+  - first:
+      213: -6562433271870712788
+    second: IceArrow_22
+  - first:
+      213: -3662297516299513758
+    second: IceArrow_23
+  - first:
+      213: -3805492757447462895
+    second: IceArrow_24
+  - first:
+      213: 1632621419188292531
+    second: IceArrow_25
+  - first:
+      213: 5810695878666086833
+    second: IceArrow_26
+  - first:
+      213: 3632448460377807646
+    second: IceArrow_27
+  - first:
+      213: 669094531218187626
+    second: IceArrow_28
+  - first:
+      213: 4053730167844033031
+    second: IceArrow_29
+  - first:
+      213: -8622585298464875240
+    second: IceArrow_30
+  - first:
+      213: -2405397970851135918
+    second: IceArrow_31
+  - first:
+      213: -4681593803152886336
+    second: IceArrow_32
+  - first:
+      213: -8940427963606652943
+    second: IceArrow_33
+  - first:
+      213: 1962784752418769983
+    second: IceArrow_34
+  - first:
+      213: -3292790639922703052
+    second: IceArrow_35
+  - first:
+      213: -1199262242723433191
+    second: IceArrow_36
+  - first:
+      213: -1496094915002209426
+    second: IceArrow_37
+  - first:
+      213: 1570368143896162368
+    second: IceArrow_38
+  - first:
+      213: -6672865423610943879
+    second: IceArrow_39
+  - first:
+      213: 8511597235349343096
+    second: IceArrow_40
+  - first:
+      213: 2575343415672125538
+    second: IceArrow_41
+  - first:
+      213: 1311472029798334586
+    second: IceArrow_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceArrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d949627ecad6e5f0800000000000000
+      internalID: -727653709556135468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8951e6f268dfde0800000000000000
+      internalID: -1297733579344340761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954c31923d4193260800000000000000
+      internalID: 7077711186549261401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ebe709fcf493910800000000000000
+      internalID: 1817571677521755776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303558b0c6b3b6f0800000000000000
+      internalID: -669990980705505229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce2a17f126339a10800000000000000
+      internalID: 1914933786070101709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615eb148c2ba6320800000000000000
+      internalID: 2552048712025002343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5de61e11a292cae0800000000000000
+      internalID: -1530499702660338342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b53997bb0841cf0800000000000000
+      internalID: -282459333930558603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceArrow_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11010258781c32110800000000000000
+      internalID: 1235043510627864593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5927a5c8a46c3344794bfbffc2962bed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceArrow_0: -727653709556135468
+      IceArrow_1: -1297733579344340761
+      IceArrow_2: 7077711186549261401
+      IceArrow_3: 1817571677521755776
+      IceArrow_4: -669990980705505229
+      IceArrow_5: 1914933786070101709
+      IceArrow_6: 2552048712025002343
+      IceArrow_7: -1530499702660338342
+      IceArrow_8: -282459333930558603
+      IceArrow_9: 1235043510627864593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

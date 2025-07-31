@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 0c5115130ab6b2640b683e5ce1b7b3e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8057447757697299652
+    second: DropThunder_0
+  - first:
+      213: 5810151838765242229
+    second: DropThunder_1
+  - first:
+      213: 8547907450860951340
+    second: DropThunder_2
+  - first:
+      213: 4604449688763509016
+    second: DropThunder_3
+  - first:
+      213: -1267424021715177248
+    second: DropThunder_4
+  - first:
+      213: 7669729901848733894
+    second: DropThunder_5
+  - first:
+      213: 1436311870199732375
+    second: DropThunder_6
+  - first:
+      213: 486395680140321256
+    second: DropThunder_7
+  - first:
+      213: -1900856329589054955
+    second: DropThunder_8
+  - first:
+      213: 3839077182447105901
+    second: DropThunder_9
+  - first:
+      213: -3532418046958540896
+    second: DropThunder_10
+  - first:
+      213: -3557756239787827482
+    second: DropThunder_11
+  - first:
+      213: -849340082568122090
+    second: DropThunder_12
+  - first:
+      213: -5362428430734905530
+    second: DropThunder_13
+  - first:
+      213: 1200969321482544395
+    second: DropThunder_14
+  - first:
+      213: -5076330867780718636
+    second: DropThunder_15
+  - first:
+      213: -7133701929791303233
+    second: DropThunder_16
+  - first:
+      213: -932473732706600491
+    second: DropThunder_17
+  - first:
+      213: 6051705105374517043
+    second: DropThunder_18
+  - first:
+      213: -4310501852428043444
+    second: DropThunder_19
+  - first:
+      213: 6371746422271405191
+    second: DropThunder_20
+  - first:
+      213: -777479530994667257
+    second: DropThunder_21
+  - first:
+      213: 986736471071761324
+    second: DropThunder_22
+  - first:
+      213: 7872522341758765732
+    second: DropThunder_23
+  - first:
+      213: -1123709283292194636
+    second: DropThunder_24
+  - first:
+      213: 8359754011359318856
+    second: DropThunder_25
+  - first:
+      213: 5393448578023642234
+    second: DropThunder_26
+  - first:
+      213: -6542433557716076216
+    second: DropThunder_27
+  - first:
+      213: 1131441036999293278
+    second: DropThunder_28
+  - first:
+      213: 5702377357459578299
+    second: DropThunder_29
+  - first:
+      213: -5024120338984622671
+    second: DropThunder_30
+  - first:
+      213: -5324697463686199802
+    second: DropThunder_31
+  - first:
+      213: -965045625737584443
+    second: DropThunder_32
+  - first:
+      213: 5532146451977848606
+    second: DropThunder_33
+  - first:
+      213: 9073876744476923964
+    second: DropThunder_34
+  - first:
+      213: 1410741311020210729
+    second: DropThunder_35
+  - first:
+      213: 8048808915231686313
+    second: DropThunder_36
+  - first:
+      213: 5941615444370952578
+    second: DropThunder_37
+  - first:
+      213: -6053978144525551118
+    second: DropThunder_38
+  - first:
+      213: -942171079864857772
+    second: DropThunder_39
+  - first:
+      213: 4677036358035195906
+    second: DropThunder_40
+  - first:
+      213: 642124459228887190
+    second: DropThunder_41
+  - first:
+      213: 1030521621918474561
+    second: DropThunder_42
+  - first:
+      213: 4252549030965351485
+    second: DropThunder_43
+  - first:
+      213: -8582887828808040430
+    second: DropThunder_44
+  - first:
+      213: 1107139049114584268
+    second: DropThunder_45
+  - first:
+      213: 3053401568111236719
+    second: DropThunder_46
+  - first:
+      213: -1905819454678338530
+    second: DropThunder_47
+  - first:
+      213: 304201044013418271
+    second: DropThunder_48
+  - first:
+      213: 8866431033206738661
+    second: DropThunder_49
+  - first:
+      213: -1022040415998272447
+    second: DropThunder_50
+  - first:
+      213: -5741087143174841345
+    second: DropThunder_51
+  - first:
+      213: -3887251434222970503
+    second: DropThunder_52
+  - first:
+      213: 6699726676602048103
+    second: DropThunder_53
+  - first:
+      213: 5121357316604597288
+    second: DropThunder_54
+  - first:
+      213: 2994641734884591100
+    second: DropThunder_55
+  - first:
+      213: 7718669099216150125
+    second: DropThunder_56
+  - first:
+      213: 1317575417336965123
+    second: DropThunder_57
+  - first:
+      213: -1817496892543653065
+    second: DropThunder_58
+  - first:
+      213: 4648900325665077761
+    second: DropThunder_59
+  - first:
+      213: 3927954307065625667
+    second: DropThunder_60
+  - first:
+      213: 3443645216573269164
+    second: DropThunder_61
+  - first:
+      213: -1530508235401607144
+    second: DropThunder_62
+  - first:
+      213: 4050257662904577586
+    second: DropThunder_63
+  - first:
+      213: -3295781143583094365
+    second: DropThunder_64
+  - first:
+      213: -1759918398308166877
+    second: DropThunder_65
+  - first:
+      213: 3008580779490081161
+    second: DropThunder_66
+  - first:
+      213: 928508628287496870
+    second: DropThunder_67
+  - first:
+      213: 6075106750397120196
+    second: DropThunder_68
+  - first:
+      213: 2174100768210821853
+    second: DropThunder_69
+  - first:
+      213: -7500273749956707756
+    second: DropThunder_70
+  - first:
+      213: -2277068083891805924
+    second: DropThunder_71
+  - first:
+      213: 270243292552855317
+    second: DropThunder_72
+  - first:
+      213: 7110081968857300052
+    second: DropThunder_73
+  - first:
+      213: 7018911583291357744
+    second: DropThunder_74
+  - first:
+      213: -4500811627169069810
+    second: DropThunder_75
+  - first:
+      213: 4196632053254806975
+    second: DropThunder_76
+  - first:
+      213: 4004657020177642658
+    second: DropThunder_77
+  - first:
+      213: 5926333175697401367
+    second: DropThunder_78
+  - first:
+      213: 5356984986348248272
+    second: DropThunder_79
+  - first:
+      213: -1718756070016729884
+    second: DropThunder_80
+  - first:
+      213: -4462156727170692284
+    second: DropThunder_81
+  - first:
+      213: -5881850999066105756
+    second: DropThunder_82
+  - first:
+      213: -247085361859894879
+    second: DropThunder_83
+  - first:
+      213: -5329310808967329201
+    second: DropThunder_84
+  - first:
+      213: -7473410738540516266
+    second: DropThunder_85
+  - first:
+      213: -2073001999077832954
+    second: DropThunder_86
+  - first:
+      213: 5421179546040893838
+    second: DropThunder_87
+  - first:
+      213: -9141495355179603715
+    second: DropThunder_88
+  - first:
+      213: 3755546713141049517
+    second: DropThunder_89
+  - first:
+      213: 668803588999495622
+    second: DropThunder_90
+  - first:
+      213: 6651794310538814670
+    second: DropThunder_91
+  - first:
+      213: 6428038462752526843
+    second: DropThunder_92
+  - first:
+      213: 2644269501470461097
+    second: DropThunder_93
+  - first:
+      213: 410749376378769919
+    second: DropThunder_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DropThunder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b4f2e54f13e2090800000000000000
+      internalID: -8057447757697299652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1365
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0888b411e699d4c81cd3e6cb2c21d4
+      internalID: -668408550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_2
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1365
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0716ce604c50498809deedd186d12
+      internalID: 663326157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1365
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa606885166ca304cb1b6c5ade8d847a
+      internalID: 644026226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_4
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1365
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9cc262592f604f99658945403c825
+      internalID: 69824087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be375d5461dda4aa9d26d9090a1cc0
+      internalID: 1986088454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 910
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43abeb300794474aa4cb26ca7d925aa
+      internalID: 1251709620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 910
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5f23acc808e04baa270edfd5de478
+      internalID: -783816363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_8
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 910
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae545e32f2e6a4ca562fc3dcc73cc3
+      internalID: 1859519209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_9
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 910
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead8305bc47bf74f88795bbe66c450a
+      internalID: -664407986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61285551ce74f814a96900205d168e0d
+      internalID: -415923387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 455
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf20e2514528cf4a85f42b4847f1c6f
+      internalID: 2032485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_12
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 455
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09bae6d7683a3944be2a9714f53c9d4
+      internalID: -662839752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_13
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 455
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd885947d6d40ab4ab5e906d6aa2a3e2
+      internalID: -1863524416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_14
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 455
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fcbe9b3421add4bae79445886de999
+      internalID: 1715344527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b82c7797eaf5742a6c0f00e4563f82
+      internalID: 532973901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feceab0d6a934794885ad157e0a9ca77
+      internalID: 791004731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_17
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd582118ccd3d45b551f5e3f0bce2a
+      internalID: -1112827019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_18
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64fd2394e76eb54b995843b7e800105
+      internalID: 821431053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropThunder_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 475
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7eb58e9bd975243ab82c38d5a93e58
+      internalID: 1371086493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6f7c7e50ad47c824a8131b401bc6da07
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DropThunder_0: -8057447757697299652
+      DropThunder_1: -668408550
+      DropThunder_10: -415923387
+      DropThunder_11: 2032485659
+      DropThunder_12: -662839752
+      DropThunder_13: -1863524416
+      DropThunder_14: 1715344527
+      DropThunder_15: 532973901
+      DropThunder_16: 791004731
+      DropThunder_17: -1112827019
+      DropThunder_18: 821431053
+      DropThunder_19: 1371086493
+      DropThunder_2: 663326157
+      DropThunder_3: 644026226
+      DropThunder_4: 69824087
+      DropThunder_5: 1986088454
+      DropThunder_6: 1251709620
+      DropThunder_7: -783816363
+      DropThunder_8: 1859519209
+      DropThunder_9: -664407986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
