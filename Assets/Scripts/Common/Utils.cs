@@ -1,6 +1,6 @@
 ﻿using UnityEngine.SceneManagement;
 
-public enum SceneNames { Init = 0, Game, }
+public enum SceneNames { Bootstarp = 0, Init, Game, }
 
 public static class Utils
 {
