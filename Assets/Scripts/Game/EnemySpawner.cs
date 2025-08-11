@@ -47,21 +47,13 @@ public class EnemySpawner : MonoBehaviour
     private void ActivateOne()
     {
         GameObject item = pool.ActivatePoolItem();
-        if (item == null) return;
 
-        // 위치/속도 초기화 (자식의 Rigidbody2D 기준)
+        if (item == null) 
+            return;
+
         Vector2 spawnPos = GetSpawnPos();
-        Rigidbody2D rb = item.GetComponentInChildren<Rigidbody2D>(true);
-        if (rb != null)
-        {
-            rb.position = spawnPos;           // 텔레포트
-            rb.linearVelocity = Vector2.zero; // 관성 제거
-        }
-        else
-        {
-            item.transform.position = spawnPos;
-        }
-
+        item.transform.GetChild(0).position = spawnPos;
+        
         // 타깃/풀 주입
         Enemy enemy = item.GetComponentInChildren<Enemy>(true);
         if (enemy != null)
