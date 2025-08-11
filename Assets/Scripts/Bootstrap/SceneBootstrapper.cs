@@ -6,7 +6,8 @@ public class SceneBootstrapper : MonoBehaviour
     private System.Collections.IEnumerator Start()
     {
         GameManager gm = GameManager.Instance;
-        if (gm == null || gm.player == null) yield break;
+        if (gm == null || gm.player == null) 
+            yield break;
 
         // 스폰: 위치만 적용 (회전 X)
         gm.player.transform.position = transform.position;
@@ -15,7 +16,7 @@ public class SceneBootstrapper : MonoBehaviour
         yield return null;
 
         // CM3: 카메라의 CameraTarget 구조체로 TrackingTarget 설정
-        CinemachineCamera cmCam = Object.FindFirstObjectByType<CinemachineCamera>();
+        CinemachineCamera cmCam = FindFirstObjectByType<CinemachineCamera>();
         if (cmCam != null)
         {
             CameraTarget target = cmCam.Target; // struct
@@ -29,7 +30,7 @@ public class SceneBootstrapper : MonoBehaviour
         }
 
         // EnemySpawner들에 타깃 주입
-        EnemySpawner[] spawners = Object.FindObjectsByType<EnemySpawner>(
+        EnemySpawner[] spawners = FindObjectsByType<EnemySpawner>(
             FindObjectsInactive.Include, FindObjectsSortMode.None);
 
         foreach (EnemySpawner sp in spawners)
