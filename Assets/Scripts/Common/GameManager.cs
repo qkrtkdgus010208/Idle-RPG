@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using BackEnd;
+using UnityEngine;
 
 [DefaultExecutionOrder(-1000)]
 public class GameManager : MonoBehaviour
@@ -34,7 +35,17 @@ public class GameManager : MonoBehaviour
     // 뒤끝 자동 로그인 유무 판단(원하는 로직으로 교체)
     public bool TryAutoLogin()
     {
-        // TODO: BackendManager 등에 위임해 실제 토큰 검사/자동 로그인
-        return false;
+        var bro = Backend.BMember.LoginWithTheBackendToken();
+
+        if (bro.IsSuccess())
+        {
+            Debug.Log("[Backend] 토큰 자동 로그인 성공");
+            return true;
+        }
+        else
+        {
+            Debug.Log("[Backend] 토큰 자동 로그인 실패");
+            return false;
+        }
     }
 }

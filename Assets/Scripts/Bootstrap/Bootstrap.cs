@@ -46,7 +46,6 @@ public class Bootstrap : MonoBehaviour
 
     private void Start()
     {
-        bool auto = GameManager.Instance.TryAutoLogin();
-        SceneManager.LoadScene(auto ? gameSceneName : initSceneName);
+        SceneManager.LoadScene("Init");
     }
 }

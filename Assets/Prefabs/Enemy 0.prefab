@@ -2896,6 +2896,7 @@ MonoBehaviour:
   EditChk: 0
   _code: SPUM_20250808203557459
   _anim: {fileID: 5422713444123087937}
+  OverrideController: {fileID: 0}
   UnitType: Unit
   spumPackages:
   - Name: Legacy

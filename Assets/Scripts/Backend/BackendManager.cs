@@ -1,5 +1,6 @@
-﻿using UnityEngine;
-using BackEnd;		// 뒤끝 SDK
+﻿using BackEnd;		// 뒤끝 SDK
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BackendManager : MonoBehaviour
 {
@@ -26,6 +27,17 @@ public class BackendManager : MonoBehaviour
         {
             // 초기화 실패 시 statusCode 400대 에러 발생
             Debug.LogError($"초기화 실패 : {bro}");
+        }
+
+        Go();
+    }
+
+    private void Go()
+    {
+        bool auto = GameManager.Instance.TryAutoLogin();
+        if (auto) 
+        {
+        SceneManager.LoadScene("Game");
         }
     }
 }
